@@ -10,7 +10,7 @@
 1. git config --global user.email 'email' email
 1. git add . 'добавляем все файлы в локальное хранилище'
 1. git commit -m 'We added all files' 'делаем commit'
-1. git branch Homework 'создание ветки Homework'
+1. git branch Homework 'создание ветку Homework'
 1. git checkout Homework 'переходим на ветку Homework'
 1. git status 'проверяем на какой мы ветке'
 1. git checkout master 'переходим на ветку master для загрузки на репозиторий основной ветки'
