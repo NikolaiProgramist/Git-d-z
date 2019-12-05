@@ -1,5 +1,7 @@
 # Домашнее задание по Git
 
-[1]: <https://github.com/NikolaiProgramist/Git-d-z>
+Ссылка на мой репозиторий https://github.com/NikolaiProgramist/Git-d-z
+
+## Команды для выполнения задания
 
 git remote add origin https://github.com/NikolaiProgramist/Git-d-z.git
