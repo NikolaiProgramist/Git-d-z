@@ -4,11 +4,11 @@
 
 ## Команды для выполнения задания
 
-- git --version 'проверка версии git'
-- git init 'инициализация git'
-- git config --global user.name 'name' имя
-- git config --global user.email 'email' email
-- 
+1. git --version 'проверка версии git'
+1. git init 'инициализация git'
+1. git config --global user.name 'name' имя
+1. git config --global user.email 'email' email
+-
 
 
 
